@@ -11,7 +11,7 @@ INFO: floss: finished execution after 9.66 seconds
 
 FLARE FLOSS RESULTS (version v2.0.0-0-gdd9bea8)
 +------------------------+------------------------------------------------------------------------------------+
-| file path              | C:\Users\hamstersito gordo\Desktop\swoofero\Strawberry woof.exe                    |
+| file path              | C:\Users\---\Desktop\swoofero\Strawberry woof.exe                    |
 | extracted strings      |                                                                                    |
 |  static strings        | 4985                                                                               |
 |  stack strings         | 0                                                                                  |
