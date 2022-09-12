@@ -1,3 +1,4 @@
+namespace offsets {
 INFO: floss: extracting static strings...
 finding decoding function features: 100%|███████████████████| 1/1 [00:00<?, ? functions/s, skipped 0 library functions]
 INFO: floss.stackstrings: extracting stackstrings from 0 functions
@@ -5033,3 +5034,4 @@ Assembly Version
 | FLOSS DECODED STRINGS (0) |
 -----------------------------
 
+}
